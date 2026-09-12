@@ -1,0 +1,10 @@
+# CLIgotchi keeps each player's local progress here; do not commit it.
+.cligotchi-state.json
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local environment files can hold secrets such as OPENAI_API_KEY.
+.env
+.env.*
